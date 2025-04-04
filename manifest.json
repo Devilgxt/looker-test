@@ -1,0 +1,10 @@
+{
+  "visualization": "index.html",
+  "components": [
+    {
+      "id": "myViz",
+      "script": "file.js",
+      "style": "style.css"
+    }
+  ]
+}
