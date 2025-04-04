@@ -1,10 +1,10 @@
 {
-  "visualization": "index.html",
+  "visualization": "https://devilgxt.github.io/looker-test/index.html",
   "components": [
     {
       "id": "myViz",
-      "script": "file.js",
-      "style": "style.css"
+      "script": "https://devilgxt.github.io/looker-test/file.js",
+      "style": "https://devilgxt.github.io/looker-test/style.css"
     }
   ]
 }
