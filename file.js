@@ -9,3 +9,6 @@ looker.plugins.visualizations.add({
     // you could add logic here to update on new data
   }
 });
+
+
+"add base js"
