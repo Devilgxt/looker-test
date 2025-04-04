@@ -18,7 +18,7 @@
             "resource": {
                 "js": "gs://looker-viz-test1/viz-codelab.js",
                 "config": "gs://looker-viz-test1/viz-codelab.json",
-                "css": "gs://looker-viz-test1/viz-codelab.css"
+                "css": "https://raw.githubusercontent.com/Devilgxt/looker-test/refs/heads/main/viz-codelab.css"
             }
         }
     ]
