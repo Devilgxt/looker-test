@@ -1,25 +1,25 @@
 {
-  "name": "Looker Test Package",
-  "organization": "Devilgxt",
-  "description": "Custom visualization Hello Looker!",
-  "logoUrl": "https://devilgxt.github.io/looker-test/logo.png",
-  "organizationUrl": "https://github.com/Devilgxt",
-  "supportUrl": "https://github.com/Devilgxt/looker-test",
-  "privacyPolicyUrl": "https://github.com/Devilgxt",
-  "termsOfServiceUrl": "https://github.com/Devilgxt",
-  "packageUrl": "https://devilgxt.github.io/looker-test/",
-  "devMode": true,
-  "components": [
-    {
-      "id": "myViz",
-      "name": "My First Viz",
-      "description": "Simple viz that says Hello Looker",
-      "iconUrl": "https://devilgxt.github.io/looker-test/icon.png",
-      "infoUrl": "https://devilgxt.github.io/looker-test/",
-      "resource": {
-        "js": "https://devilgxt.github.io/looker-test/file.js",
-        "css": "https://devilgxt.github.io/looker-test/style.css"
-      }
-    }
-  ]
+    "name": "Community Visualization",
+    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+    "organization": "Looker Studio Codelab",
+    "organizationUrl": "https://url",
+    "termsOfServiceUrl": "https://url",
+    "supportUrl": "https://url",
+    "packageUrl": "https://url",
+    "privacyPolicyUrl": "https://url",
+    "description": "Community Visualization Codelab",
+    "devMode": true,
+    "components": [
+        {
+            "id": "tableChart",
+            "name": "Table",
+            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+            "description": "A simple table chart.",
+            "resource": {
+                "js": "gs://looker-viz-test1/viz-codelab.js",
+                "config": "gs://looker-viz-test1/viz-codelab.json",
+                "css": "gs://looker-viz-test1/viz-codelab.css"
+            }
+        }
+    ]
 }
