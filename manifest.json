@@ -1,25 +1,25 @@
 {
-    "name": "Community Visualization",
-    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-    "organization": "Looker Studio Codelab",
-    "organizationUrl": "https://url",
-    "termsOfServiceUrl": "https://url",
-    "supportUrl": "https://url",
-    "packageUrl": "https://url",
-    "privacyPolicyUrl": "https://url",
-    "description": "Community Visualization Codelab",
-    "devMode": true,
-    "components": [
-        {
-            "id": "tableChart",
-            "name": "Table",
-            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-            "description": "A simple table chart.",
-            "resource": {
-            "js": "https://raw.githubusercontent.com/Devilgxt/looker-test/main/viz-codelab.js",
-  "config": "https://raw.githubusercontent.com/Devilgxt/looker-test/main/viz-codelab.json",
-  "css": "https://raw.githubusercontent.com/Devilgxt/looker-test/main/viz-codelab.css"
-            }
-        }
-    ]
+  "name": "Community Visualization",
+  "logoUrl": "https://devilgxt.github.io/looker-test/table-chart.png",
+  "organization": "Looker Studio Codelab",
+  "organizationUrl": "https://your-site.com",
+  "termsOfServiceUrl": "https://your-site.com/tos",
+  "supportUrl": "https://your-site.com/support",
+  "packageUrl": "https://your-site.com",
+  "privacyPolicyUrl": "https://your-site.com/privacy",
+  "description": "Community Visualization hosted on GitHub Pages",
+  "devMode": true,
+  "components": [
+    {
+      "id": "tableChart",
+      "name": "Table",
+      "iconUrl": "https://devilgxt.github.io/looker-test/table-chart.png",
+      "description": "A simple table chart.",
+      "resource": {
+        "js": "https://devilgxt.github.io/looker-test/viz-codelab.js",
+        "config": "https://devilgxt.github.io/looker-test/viz-codelab.json",
+        "css": "https://devilgxt.github.io/looker-test/viz-codelab.css"
+      }
+    }
+  ]
 }
