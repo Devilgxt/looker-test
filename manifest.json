@@ -1,25 +1,25 @@
 {
-  "dataStudio": {
     "name": "Community Visualization",
- 
+    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
     "organization": "Looker Studio Codelab",
-  
-    "packageUrl": "https://devilgxt.github.io/looker-test/",
-
-    "description": "Community Visualization hosted on GitHub Pages",
+    "organizationUrl": "https://url",
+    "termsOfServiceUrl": "https://url",
+    "supportUrl": "https://url",
+    "packageUrl": "https://url",
+    "privacyPolicyUrl": "https://url",
+    "description": "Community Visualization Codelab",
     "devMode": true,
     "components": [
-      {
-        "id": "tableChart",
-        "name": "Table",
-        
-        "description": "A simple table chart.",
-        "resource": {
-          "js": "https://devilgxt.github.io/looker-test/viz-codelab.js",
+        {
+            "id": "tableChart",
+            "name": "Table",
+            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+            "description": "A simple table chart.",
+            "resource": {
+                "js": "https://devilgxt.github.io/looker-test/viz-codelab.js",
           "config": "https://devilgxt.github.io/looker-test/viz-codelab.json",
           "css": "https://devilgxt.github.io/looker-test/viz-codelab.css"
+            }
         }
-      }
     ]
-  }
 }
