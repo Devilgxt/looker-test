@@ -1,4 +1,5 @@
 {
+    "dataStudio": {
     "name": "Community Visualization",
     "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
     "organization": "Looker Studio Codelab",
@@ -22,4 +23,5 @@
             }
         }
     ]
+}
 }
