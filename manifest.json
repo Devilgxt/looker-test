@@ -1,25 +1,27 @@
 {
-  "name": "Community Visualization",
-  "logoUrl": "https://devilgxt.github.io/looker-test/table-chart.png",
-  "organization": "Looker Studio Codelab",
-  "organizationUrl": "https://your-site.com",
-  "termsOfServiceUrl": "https://your-site.com/tos",
-  "supportUrl": "https://your-site.com/support",
-  "packageUrl": "https://your-site.com",
-  "privacyPolicyUrl": "https://your-site.com/privacy",
-  "description": "Community Visualization hosted on GitHub Pages",
-  "devMode": true,
-  "components": [
-    {
-      "id": "tableChart",
-      "name": "Table",
-      "iconUrl": "https://devilgxt.github.io/looker-test/table-chart.png",
-      "description": "A simple table chart.",
-      "resource": {
-        "js": "https://devilgxt.github.io/looker-test/viz-codelab.js",
-        "config": "https://devilgxt.github.io/looker-test/viz-codelab.json",
-        "css": "https://devilgxt.github.io/looker-test/viz-codelab.css"
+  "dataStudio": {
+    "name": "Community Visualization",
+    "logoUrl": "https://devilgxt.github.io/looker-test/table-chart.png",
+    "organization": "Looker Studio Codelab",
+    "organizationUrl": "https://your-site.com",
+    "termsOfServiceUrl": "https://your-site.com/tos",
+    "supportUrl": "https://your-site.com/support",
+    "packageUrl": "https://devilgxt.github.io/looker-test/",
+    "privacyPolicyUrl": "https://your-site.com/privacy",
+    "description": "Community Visualization hosted on GitHub Pages",
+    "devMode": true,
+    "components": [
+      {
+        "id": "tableChart",
+        "name": "Table",
+        "iconUrl": "https://devilgxt.github.io/looker-test/table-chart.png",
+        "description": "A simple table chart.",
+        "resource": {
+          "js": "https://devilgxt.github.io/looker-test/viz-codelab.js",
+          "config": "https://devilgxt.github.io/looker-test/viz-codelab.json",
+          "css": "https://devilgxt.github.io/looker-test/viz-codelab.css"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
